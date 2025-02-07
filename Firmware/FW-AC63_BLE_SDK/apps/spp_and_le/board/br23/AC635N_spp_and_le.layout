@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Release" />
+	<File name="..\..\..\common\third_party_profile\jieli\gatt_common\le_gatt_common.c" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="22170" topLine="654" />
+		</Cursor>
+	</File>
+	<File name="..\..\examples\at_char_com\app_at_char_com.c" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3539" topLine="136" />
+		</Cursor>
+	</File>
+	<File name="..\..\examples\at_com\app_at_com.c" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3828" topLine="141" />
+		</Cursor>
+	</File>
+	<File name="..\..\include\app_action.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="123" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\examples\at_char_com\ble_at_char_client.c" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="22457" topLine="664" />
+		</Cursor>
+	</File>
+	<File name="..\..\examples\trans_data\ble_trans_profile.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="9192" topLine="177" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\system\app_core.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1113" topLine="46" />
+		</Cursor>
+	</File>
+	<File name="..\..\examples\at_com\ble_at_com.c" open="1" top="1" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="13841" topLine="467" />
+		</Cursor>
+	</File>
+	<File name="..\..\app_main.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4331" topLine="149" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\third_party_profile\jieli\gatt_common\le_gatt_client.c" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="51358" topLine="1472" />
+		</Cursor>
+	</File>
+	<File name="..\..\examples\at_com\ble_at_client.c" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="20786" topLine="613" />
+		</Cursor>
+	</File>
+	<File name="..\..\examples\at_char_com\ble_at_char_com.c" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="10127" topLine="298" />
+		</Cursor>
+	</File>
+	<File name="..\..\examples\trans_data\ble_trans.c" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="985" topLine="16" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
