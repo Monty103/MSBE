@@ -1,0 +1,1000 @@
+# depslib dependency file v1.0
+1734005940 source:d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\cpu\br23\adc_api.c
+	"typedef.h"
+	"asm/clock.h"
+	"asm/adc_api.h"
+	"timer.h"
+	"init.h"
+	"asm/efuse.h"
+	"irq.h"
+	"asm/power/p33.h"
+	"asm/power_interface.h"
+	"app_config.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\generic\typedef.h
+	"asm/cpu.h"
+	"generic/errno-base.h"
+	"string.h"
+	"strings.h"
+	"system/malloc.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\driver\cpu\br23\asm\cpu.h
+	"br23.h"
+	"csfr.h"
+	"asm/irq.h"
+	"generic/printf.h"
+	"system/generic/log.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\driver\cpu\br23\asm\br23.h
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\driver\cpu\br23\asm\csfr.h
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\driver\cpu\br23\asm\irq.h
+	"asm/hwi.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\driver\cpu\br23\asm\hwi.h
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\generic\printf.h
+	<stdarg.h>
+	"typedef.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\generic\log.h
+	"system/generic/printf.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\generic\errno-base.h
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\malloc.h
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\driver\cpu\br23\asm\clock.h
+	"typedef.h"
+	"clock_hw.h"
+	"asm/clock_define.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\driver\cpu\br23\asm\clock_hw.h
+	"typedef.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\driver\cpu\br23\asm\clock_define.h
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\driver\cpu\br23\asm\adc_api.h
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\timer.h
+	"typedef.h"
+	"generic/list.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\generic\list.h
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\init.h
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\driver\cpu\br23\asm\efuse.h
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\generic\irq.h
+	"asm/irq.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\driver\cpu\br23\asm\power\p33.h
+	"typedef.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\driver\cpu\br23\asm\power_interface.h
+	"generic/typedef.h"
+
+1734005938 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\apps\hid\include\app_config.h
+	"board_config.h"
+	"usb_common_def.h"
+	"btcontroller_mode.h"
+	"user_cfg_id.h"
+
+1734005938 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\apps\hid\board\br23\board_config.h
+	"board_ac635n_demo_cfg.h"
+	"board_ac6351d_keyboard_cfg.h"
+
+1734005938 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\apps\hid\board\br23\board_ac635n_demo_cfg.h
+	"board_ac635n_demo_global_build_cfg.h"
+	"usb_std_class_def.h"
+
+1734005938 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\apps\hid\board\br23\board_ac635n_demo_global_build_cfg.h
+
+1734005938 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\apps\common\device\usb\usb_std_class_def.h
+
+1734005938 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\apps\hid\board\br23\board_ac6351d_keyboard_cfg.h
+	"board_ac6351d_keyboard_global_build_cfg.h"
+	"usb_std_class_def.h"
+
+1734005938 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\apps\hid\board\br23\board_ac6351d_keyboard_global_build_cfg.h
+
+1734005938 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\apps\common\device\usb\usb_common_def.h
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\btctrler\btcontroller_mode.h
+
+1734005938 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\apps\hid\include\user_cfg_id.h
+
+1734005940 source:d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\cpu\br23\audio_common\app_audio.c
+	"system/includes.h"
+	"media/includes.h"
+	"app_config.h"
+	"app_action.h"
+	"app_main.h"
+	"audio_config.h"
+	"audio_digital_vol.h"
+	"audio_link.h"
+	"application/audio_output_dac.h"
+	"application/audio_dig_vol.h"
+	"update.h"
+	"fm_emitter/fm_emitter_manage.h"
+	"debug.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\includes.h
+	"init.h"
+	"event.h"
+	"malloc.h"
+	"spinlock.h"
+	"task.h"
+	"timer.h"
+	"wait.h"
+	"app_core.h"
+	"app_msg.h"
+	"database.h"
+	"fs/fs.h"
+	"power_manage.h"
+	"syscfg_id.h"
+	"bank_switch.h"
+	"generic/includes.h"
+	"device/includes.h"
+	"asm/includes.h"
+	"device/sdio_host_init.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\event.h
+	"generic/typedef.h"
+	"generic/list.h"
+	"generic/rect.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\generic\rect.h
+	"typedef.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\spinlock.h
+	"typedef.h"
+	"cpu.h"
+	"irq.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\generic\cpu.h
+	<asm/cpu.h>
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\task.h
+	"os/os_api.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\os\os_api.h
+	"generic/typedef.h"
+	"os/os_cpu.h"
+	"os/os_error.h"
+	"os/os_type.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\os\os_cpu.h
+	"asm/cpu.h"
+	"jiffies.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\generic\jiffies.h
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\os\os_error.h
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\os\os_type.h
+	<os/ucos_ii.h>
+	"FreeRTOS/FreeRTOS.h"
+	"FreeRTOS/semphr.h"
+	"FreeRTOS/task.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\os\ucos_ii.h
+	"generic/typedef.h"
+	"os/os_cpu.h"
+	"os/os_cfg.h"
+	"os/os_api.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\os\os_cfg.h
+	"os/os_cpu.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\os\freertos\freertos.h
+	"FreeRTOSConfig.h"
+	"projdefs.h"
+	"portable.h"
+	<reent.h>
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\os\freertos\freertosconfig.h
+	"printf.h"
+	"pi32v2/portmacro.h"
+	"pi32_lto/portmacro.h"
+	"q32s/portmacro.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\os\freertos\pi32v2\portmacro.h
+	"asm/cpu.h"
+	<stdint.h>
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\os\freertos\pi32_lto\portmacro.h
+	"asm/cpu.h"
+	<stdint.h>
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\os\freertos\q32s\portmacro.h
+	"asm/cpu.h"
+	<stdint.h>
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\os\freertos\projdefs.h
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\os\freertos\portable.h
+	"deprecated_definitions.h"
+	"portmacro.h"
+	"mpu_wrappers.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\os\freertos\deprecated_definitions.h
+	"..\..\Source\portable\owatcom\16bitdos\pc\portmacro.h"
+	"..\..\Source\portable\owatcom\16bitdos\flsh186\portmacro.h"
+	"../portable/GCC/ATMega323/portmacro.h"
+	"../portable/IAR/ATMega323/portmacro.h"
+	"../../Source/portable/MPLAB/PIC24_dsPIC/portmacro.h"
+	"../../Source/portable/MPLAB/PIC24_dsPIC/portmacro.h"
+	"../../Source/portable/MPLAB/PIC18F/portmacro.h"
+	"../../Source/portable/MPLAB/PIC32MX/portmacro.h"
+	"libFreeRTOS/Include/portmacro.h"
+	"../../Source/portable/SDCC/Cygnal/portmacro.h"
+	"../../Source/portable/GCC/ARM7_LPC2000/portmacro.h"
+	"portmacro.h"
+	"../../Source/portable/GCC/ARM7_LPC23xx/portmacro.h"
+	"..\..\Source\portable\IAR\MSP430\portmacro.h"
+	"../../Source/portable/GCC/MSP430F449/portmacro.h"
+	"../../Source/portable/Rowley/MSP430F449/portmacro.h"
+	"..\..\Source\portable\RVDS\ARM7_LPC21xx\portmacro.h"
+	"../../Source/portable/GCC/ARM7_AT91SAM7S/portmacro.h"
+	"..\..\Source\portable\IAR\AtmelSAM7S64\portmacro.h"
+	"..\..\Source\portable\IAR\AtmelSAM9XE\portmacro.h"
+	"..\..\Source\portable\IAR\LPC2000\portmacro.h"
+	"..\..\Source\portable\IAR\STR71x\portmacro.h"
+	"..\..\Source\portable\IAR\STR75x\portmacro.h"
+	"..\..\Source\portable\GCC\STR75x\portmacro.h"
+	"..\..\Source\portable\IAR\STR91x\portmacro.h"
+	"../../Source/portable/GCC/H8S2329/portmacro.h"
+	"../../Source/portable/GCC/ARM7_AT91FR40008/portmacro.h"
+	"../../Source/portable/RVDS/ARM_CM3/portmacro.h"
+	"../../Source/portable/GCC/ARM_CM3/portmacro.h"
+	"../../Source/portable/GCC/ARM_CM3/portmacro.h"
+	"../../Source/portable/IAR/ARM_CM3/portmacro.h"
+	"../../Source/portable/IAR/ARM_CM3/portmacro.h"
+	"../../Source/portable/CodeWarrior/HCS12/portmacro.h"
+	"../../Source/portable/GCC/MicroBlaze/portmacro.h"
+	"..\..\Source\portable\Paradigm\Tern_EE\small\portmacro.h"
+	"../../Source/portable/GCC/HCS12/portmacro.h"
+	"../../Source/portable/GCC/MCF5235/portmacro.h"
+	"../../../Source/portable/GCC/ColdFire_V2/portmacro.h"
+	"../../Source/portable/CodeWarrior/ColdFire_V2/portmacro.h"
+	"../../Source/portable/GCC/PPC405_Xilinx/portmacro.h"
+	"../../Source/portable/GCC/PPC440_Xilinx/portmacro.h"
+	"..\..\Source\portable\Softune\MB96340\portmacro.h"
+	"frconfig.h"
+	"..\portable\BCC\16BitDOS\PC\prtmacro.h"
+	"frconfig.h"
+	"..\portable\BCC\16BitDOS\flsh186\prtmacro.h"
+	"portmacro.h"
+	"portmacro.h"
+	"portmacro.h"
+	"portmacro.h"
+	"../../Source/portable/IAR/V850ES/portmacro.h"
+	"../../Source/portable/IAR/V850ES/portmacro.h"
+	"../../Source/portable/IAR/V850ES/portmacro.h"
+	"../../Source/portable/IAR/V850ES/portmacro.h"
+	"../../Source/portable/IAR/V850ES/portmacro.h"
+	"../../Source/portable/IAR/78K0R/portmacro.h"
+	"../../Source/portable/IAR/78K0R/portmacro.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\os\freertos\mpu_wrappers.h
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\os\freertos\semphr.h
+	"queue.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\os\freertos\queue.h
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\os\freertos\task.h
+	"list.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\os\freertos\list.h
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\wait.h
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\app_core.h
+	"typedef.h"
+	"generic/list.h"
+	"system/event.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\app_msg.h
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\database.h
+	"typedef.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\fs\fs.h
+	"generic/typedef.h"
+	"generic/list.h"
+	"generic/ioctl.h"
+	"generic/atomic.h"
+	"system/task.h"
+	"system/malloc.h"
+	"system/sys_time.h"
+	"stdarg.h"
+	"fs_file_name.h"
+	"sdfile.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\generic\ioctl.h
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\generic\atomic.h
+	"cpu.h"
+	"irq.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\sys_time.h
+	"typedef.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\fs\fs_file_name.h
+	"generic/typedef.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\fs\sdfile.h
+	"typedef.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\power_manage.h
+	"generic/typedef.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\syscfg_id.h
+	"typedef.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\bank_switch.h
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\generic\includes.h
+	"errno-base.h"
+	"typedef.h"
+	"ascii.h"
+	"atomic.h"
+	"ioctl.h"
+	"cpu.h"
+	"gpio.h"
+	"irq.h"
+	"jiffies.h"
+	"list.h"
+	"printf.h"
+	"rect.h"
+	"version.h"
+	"lbuf.h"
+	"lbuf_lite.h"
+	"circular_buf.h"
+	"index.h"
+	"debug_lite.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\generic\ascii.h
+	"typedef.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\generic\gpio.h
+	"asm/gpio.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\driver\cpu\br23\asm\gpio.h
+	"typedef.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\generic\version.h
+	"typedef.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\generic\lbuf.h
+	"typedef.h"
+	"list.h"
+	"system/spinlock.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\generic\lbuf_lite.h
+	"typedef.h"
+	"list.h"
+	"system/spinlock.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\generic\circular_buf.h
+	"typedef.h"
+	"system/spinlock.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\generic\index.h
+	"typedef.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\generic\debug_lite.h
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\device\includes.h
+	"device.h"
+	"ioctl_cmds.h"
+	"key_driver.h"
+	"iokey.h"
+	"irkey.h"
+	"adkey.h"
+	"slidekey.h"
+	"touch_key.h"
+	"rdec_key.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\device\device.h
+	"generic/typedef.h"
+	"generic/list.h"
+	"generic/atomic.h"
+	"device/ioctl_cmds.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\device\ioctl_cmds.h
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\device\key_driver.h
+	"typedef.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\device\iokey.h
+	"typedef.h"
+	"device/device.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\device\irkey.h
+	"typedef.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\device\adkey.h
+	"typedef.h"
+	"asm/adc_api.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\device\slidekey.h
+	"typedef.h"
+	"device/device.h"
+	"asm/adc_api.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\device\touch_key.h
+	"typedef.h"
+	"asm/plcnt.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\driver\cpu\br23\asm\plcnt.h
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\device\rdec_key.h
+	"typedef.h"
+	"asm/rdec.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\driver\cpu\br23\asm\rdec.h
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\driver\cpu\br23\asm\includes.h
+	"asm/cpu.h"
+	"asm/crc16.h"
+	"asm/clock.h"
+	"asm/uart.h"
+	"asm/uart_dev.h"
+	"asm/gpio.h"
+	"asm/spiflash.h"
+	"asm/csfr.h"
+	"asm/power_interface.h"
+	"asm/efuse.h"
+	"asm/wdt.h"
+	"asm/timer.h"
+	"asm/rtc.h"
+	"asm/mcpwm.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\driver\cpu\br23\asm\crc16.h
+	"typedef.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\driver\cpu\br23\asm\uart.h
+	"device/uart.h"
+	"device/device.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\driver\device\uart.h
+	"typedef.h"
+	"device/device.h"
+	"generic/ioctl.h"
+	"system/task.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\driver\cpu\br23\asm\uart_dev.h
+	"typedef.h"
+	"os/os_api.h"
+	"jiffies.h"
+	"irq.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\driver\cpu\br23\asm\spiflash.h
+	"device/device.h"
+	"device/spiflash.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\driver\device\spiflash.h
+	"typedef.h"
+	"generic/list.h"
+	"generic/ioctl.h"
+	"device/device.h"
+	"system/task.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\driver\cpu\br23\asm\wdt.h
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\driver\cpu\br23\asm\timer.h
+	"typedef.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\driver\cpu\br23\asm\rtc.h
+	"typedef.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\driver\cpu\br23\asm\mcpwm.h
+	"typedef.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\driver\device\sdio_host_init.h
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\includes.h
+	"media/audio_decoder.h"
+	"media/audio_encoder.h"
+	"media/mixer.h"
+	"media/automute.h"
+	"media/audio_stream.h"
+	"effectrs_sync.h"
+	"audio_resample.h"
+	"asm/cpu_includes.h"
+	"application/eq_func_define.h"
+	"asm/dac.h"
+	"asm/audio_adc.h"
+	"asm/audio_src.h"
+	"asm/audio_spdif.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\audio_decoder.h
+	"generic/typedef.h"
+	"generic/list.h"
+	"media/audio_base.h"
+	"media/audio_stream.h"
+	"os/os_api.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\audio_base.h
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\audio_stream.h
+	"generic/includes.h"
+	"media/audio_base.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\audio_encoder.h
+	"generic/typedef.h"
+	"generic/list.h"
+	"generic/circular_buf.h"
+	"media/audio_base.h"
+	"os/os_api.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\mixer.h
+	"generic/typedef.h"
+	"generic/list.h"
+	"media/audio_stream.h"
+	"application/audio_buf_sync.h"
+	"mixer_cyclic.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\application\audio_buf_sync.h
+	"asm/includes.h"
+	"generic/includes.h"
+	"system/includes.h"
+	"asm/cpu_includes.h"
+	"asm/audio_src.h"
+	"media/audio_decoder.h"
+	"media/audio_encoder.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\cpu\br23\asm\cpu_includes.h
+	"asm/audio_adc.h"
+	"asm/audio_linein.h"
+	"asm/audio_src.h"
+	"dac.h"
+	"asm/hw_eq.h"
+	"audio_sync.h"
+	"audio_iis.h"
+	"pitchshifter/pitchshifter_api.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\cpu\br23\asm\audio_adc.h
+	"generic/typedef.h"
+	"generic/list.h"
+	"generic/atomic.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\cpu\br23\asm\audio_linein.h
+	"generic/typedef.h"
+	"asm/audio_adc.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\cpu\br23\asm\audio_src.h
+	"media/audio_stream.h"
+	"audio_resample.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\audio_resample.h
+	"typedef.h"
+	"media/audio_stream.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\cpu\br23\asm\dac.h
+	"generic/typedef.h"
+	"generic/atomic.h"
+	"os/os_api.h"
+	"media/audio_stream.h"
+	"media/audio_cfifo.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\audio_cfifo.h
+	"generic/list.h"
+	"typedef.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\cpu\br23\asm\hw_eq.h
+	"generic/typedef.h"
+	"generic/list.h"
+	"os/os_api.h"
+	"application/eq_func_define.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\application\eq_func_define.h
+	"generic/typedef.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\cpu\br23\asm\audio_sync.h
+	"media/audio_stream.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\cpu\br23\asm\audio_iis.h
+	"generic/typedef.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\pitchshifter\pitchshifter_api.h
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\mixer_cyclic.h
+	"generic/typedef.h"
+	"generic/list.h"
+	"media/audio_stream.h"
+	"application/audio_buf_sync.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\automute.h
+	"generic/typedef.h"
+	"generic/list.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\effectrs_sync.h
+	"generic/typedef.h"
+	"generic/list.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\cpu\br23\asm\audio_spdif.h
+	"generic/typedef.h"
+	"generic/list.h"
+
+1734005938 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\apps\hid\include\app_action.h
+	"app_config.h"
+	"system/app_core.h"
+
+1734005938 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\apps\hid\include\app_main.h
+
+1734005940 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\cpu\br23\audio_config.h
+	"generic/typedef.h"
+	"app_config.h"
+
+1734005938 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\apps\common\audio\audio_digital_vol.h
+	"generic/typedef.h"
+	"os/os_type.h"
+	"os/os_api.h"
+	"generic/list.h"
+
+1734005940 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\cpu\br23\audio_common\audio_link.h
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\application\audio_output_dac.h
+	"typedef.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\application\audio_dig_vol.h
+	"application/audio_dig_vol.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\update\update.h
+	"typedef.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\debug.h
+	"asm/cpu.h"
+	"generic/typedef.h"
+
+1734005940 source:d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\cpu\br23\audio_dec\audio_dec_midi_ctrl.c
+	"audio_dec_midi_ctrl.h"
+
+1734005940 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\cpu\br23\audio_dec\audio_dec_midi_ctrl.h
+	"asm/includes.h"
+	"media/includes.h"
+	"system/includes.h"
+	"app_config.h"
+	"audio_config.h"
+	"audio_dec.h"
+	"app_main.h"
+	"asm/dac.h"
+	"clock_cfg.h"
+	"key_event_deal.h"
+	"midi_ctrl_decoder.h"
+
+1734005940 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\cpu\br23\audio_dec\audio_dec.h
+	"asm/includes.h"
+	"media/includes.h"
+	"system/includes.h"
+	"asm/audio_src.h"
+	"audio_digital_vol.h"
+	"application/audio_eq_drc_apply.h"
+	"application/audio_vocal_tract_synthesis.h"
+	"application/audio_dig_vol.h"
+	"audio_effect/audio_eq_drc_demo.h"
+	"audio_dec_bt.h"
+	"audio_dec_file.h"
+	"audio_dec_fm.h"
+	"audio_dec_linein.h"
+	"audio_dec_pc.h"
+	"audio_dec_spdif.h"
+	"audio_dec_record.h"
+	"audio_dec_tone.h"
+	"localtws/localtws.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\application\audio_eq_drc_apply.h
+	"system/includes.h"
+	"media/audio_stream.h"
+	"application/eq_config.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\application\eq_config.h
+	"application/audio_eq.h"
+	"application/audio_drc.h"
+	"spinlock.h"
+	"math.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\application\audio_eq.h
+	"typedef.h"
+	"asm/hw_eq.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\application\audio_drc.h
+	"typedef.h"
+	"sw_drc.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\sw_drc.h
+	"generic/typedef.h"
+	"generic/list.h"
+	"os/os_api.h"
+	"drc_api.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\drc_api.h
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\application\audio_vocal_tract_synthesis.h
+	"system/includes.h"
+	"media/includes.h"
+
+1734005940 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\cpu\br23\audio_effect\audio_eq_drc_demo.h
+	"asm/includes.h"
+	"media/includes.h"
+	"system/includes.h"
+	"application/eq_config.h"
+	"app_config.h"
+	"audio_config.h"
+
+1734005940 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\cpu\br23\audio_dec\audio_dec_bt.h
+	"asm/includes.h"
+	"media/includes.h"
+	"system/includes.h"
+	"media/audio_decoder.h"
+
+1734005940 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\cpu\br23\audio_dec\audio_dec_file.h
+	"asm/includes.h"
+	"media/includes.h"
+	"media/file_decoder.h"
+	"system/includes.h"
+	"media/audio_decoder.h"
+	"app_config.h"
+	"music/music_decrypt.h"
+	"music/music_id3.h"
+	"application/audio_vocal_tract_synthesis.h"
+	"application/audio_pitchspeed.h"
+	"application/audio_surround.h"
+	"application/audio_vbass.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\file_decoder.h
+	"media/includes.h"
+
+1734005938 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\apps\common\music\music_decrypt.h
+	"typedef.h"
+
+1734005938 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\apps\common\music\music_id3.h
+	"typedef.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\application\audio_pitchspeed.h
+	"asm/includes.h"
+	"media/includes.h"
+	"system/includes.h"
+	"asm/ps_cal_api.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\cpu\br23\asm\ps_cal_api.h
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\application\audio_surround.h
+	"system/includes.h"
+	"media/includes.h"
+	"surround/effect_sur_api.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\surround\effect_sur_api.h
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\application\audio_vbass.h
+	"system/includes.h"
+	"media/audio_stream.h"
+	"vbass/vbass_api.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\vbass\vbass_api.h
+
+1734005940 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\cpu\br23\audio_dec\audio_dec_fm.h
+	"asm/includes.h"
+	"media/includes.h"
+	"system/includes.h"
+	"media/audio_decoder.h"
+	"mic_effect.h"
+
+1734005940 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\cpu\br23\audio_dec\audio_dec_linein.h
+	"asm/includes.h"
+	"media/includes.h"
+	"system/includes.h"
+	"media/audio_decoder.h"
+
+1734005940 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\cpu\br23\audio_dec\audio_dec_pc.h
+	"asm/includes.h"
+	"media/includes.h"
+	"system/includes.h"
+	"media/audio_decoder.h"
+
+1734005940 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\cpu\br23\audio_dec\audio_dec_spdif.h
+	"asm/includes.h"
+	"media/includes.h"
+	"system/includes.h"
+	"media/audio_decoder.h"
+
+1734005940 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\cpu\br23\audio_dec\audio_dec_record.h
+	"asm/includes.h"
+	"media/includes.h"
+	"system/includes.h"
+	"media/audio_decoder.h"
+
+1734005940 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\cpu\br23\audio_dec\audio_dec_tone.h
+	"asm/includes.h"
+	"media/includes.h"
+	"media/file_decoder.h"
+	"system/includes.h"
+	"media/audio_decoder.h"
+	"application/audio_dec_app.h"
+	"tone_player.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\application\audio_dec_app.h
+	"asm/includes.h"
+	"media/includes.h"
+	"media/audio_stream.h"
+	"system/includes.h"
+	"channel_switch.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\channel_switch.h
+	"media/audio_stream.h"
+
+1734005938 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\apps\hid\include\tone_player.h
+	"app_config.h"
+	"audio_config.h"
+
+1734005940 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\cpu\br23\localtws\localtws.h
+	"application/audio_localtws.h"
+	"media/localtws_decoder.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\application\audio_localtws.h
+	"asm/includes.h"
+	"system/includes.h"
+	"media/mixer.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\localtws_decoder.h
+	"media/includes.h"
+
+1734005940 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\cpu\br23\clock_cfg.h
+	"typedef.h"
+
+1734005938 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\apps\hid\include\key_event_deal.h
+	"typedef.h"
+	"system/event.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\midi_ctrl_decoder.h
+	"media/includes.h"
+	"media/MIDI_CTRL_API.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\midi_ctrl_api.h
+	"MIDI_DEC_API.h"
+	"typedef.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\midi_dec_api.h
+	"w2s_handle_api.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\w2s_handle_api.h
+
+1734005940 source:d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\cpu\br23\audio_dec\audio_dec_tone.c
+	"system/includes.h"
+	"media/includes.h"
+	"tone_player.h"
+	"audio_config.h"
+	"app_main.h"
+	"clock_cfg.h"
+	"audio_dec.h"
+
+1734005940 source:d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\cpu\br23\audio_dec\audio_usb_mic.c
+	"asm/includes.h"
+	"media/includes.h"
+	"system/includes.h"
+	"audio_enc.h"
+	"app_main.h"
+	"app_config.h"
+	"audio_splicing.h"
+	"application/audio_echo_reverb.h"
+	"audio_common/audio_iis.h"
+	"aec_user.h"
+	"device/uac_stream.h"
+	"audio_track.h"
+	"Resample_api.h"
+	"audio_link.h"
+	"Resample_api.h"
+
+1734005940 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\cpu\br23\audio_enc\audio_enc.h
+	"generic/typedef.h"
+	"media/includes.h"
+	"mic_effect.h"
+	"loud_speaker.h"
+	"audio_enc_file.h"
+	"audio_enc_recoder.h"
+	"audio_recorder_mix.h"
+
+1734005940 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\cpu\br23\audio_enc\audio_enc_file.h
+	"media/audio_encoder.h"
+	"dev_manager.h"
+
+1734005940 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\cpu\br23\audio_enc\audio_enc_recoder.h
+	"media/audio_encoder.h"
+
+1734005940 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\cpu\br23\audio_enc\audio_recorder_mix.h
+	"system/includes.h"
+	"media/includes.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\audio_splicing.h
+	"generic/typedef.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\application\audio_echo_reverb.h
+	"application/reverb_api.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\application\reverb_api.h
+	"media/audio_stream.h"
+
+1734005940 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\cpu\br23\audio_common\audio_iis.h
+	"audio_link.h"
+
+1734005938 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\apps\hid\include\aec_user.h
+	"generic/typedef.h"
+	"user_cfg.h"
+	"commproc_dms.h"
+	"commproc.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\system\user_cfg.h
+	"typedef.h"
+	"app_config.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\cpu\br23\commproc.h
+	"generic/typedef.h"
+
+1734005938 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\apps\common\device\usb\device\uac_stream.h
+	"typedef.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\audio_track.h
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\cpu\br23\asm\resample_api.h
+
+1734005940 source:d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\cpu\br23\audio_dec\tone_player.c
+	"system/includes.h"
+	"media/includes.h"
+	"application/audio_dec_app.h"
+	"tone_player.h"
+	"audio_config.h"
+	"app_main.h"
+	"audio_dec.h"
+	"sine_make.h"
+	"bt_tws.h"
+	"app_task.h"
+
+1734005938 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\apps\common\audio\sine_make.h
+	"generic/typedef.h"
+
+1734005938 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\apps\hid\include\bt_tws.h
+	"classic/tws_api.h"
+	"classic/tws_event.h"
+
+1740140166 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\btctrler\classic\tws_api.h
+	"typedef.h"
+	"classic/tws_event.h"
+	"classic/tws_local_media_sync.h"
+	"classic/tws_data_trans.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\btctrler\classic\tws_event.h
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\btctrler\classic\tws_local_media_sync.h
+	"generic/list.h"
+	"generic/typedef.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\btctrler\classic\tws_data_trans.h
+	"generic/typedef.h"
+
+1734005940 source:d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\cpu\br23\audio_demo\audio_dac_io_demo.c
+	"media/includes.h"
+	"app_config.h"
+	"audio_config.h"
+	"asm/includes.h"
+
+1734005940 source:d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\cpu\br23\audio_demo\audio_fft_demo.c
+	"generic/typedef.h"
+	"hw_fft.h"
+
+1734005943 d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\include_lib\media\media_develop\media\hw_fft.h
+
+1734005940 source:d:\dlogic\jieli\msbe_v1\git\msbe\firmware\fw-ac63_ble_sdk\cpu\br23\audio_enc\audio_adc_demo.c
+	"asm/includes.h"
+	"media/includes.h"
+	"system/includes.h"
+	"asm/audio_src.h"
+	"audio_enc.h"
+	"app_main.h"
+	"audio_config.h"
+
